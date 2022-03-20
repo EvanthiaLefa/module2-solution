@@ -1,2 +1,2 @@
 # HTML-CSS-JS-Coursera
-HTML-CSS-JS-Coursera
+gh-pages
